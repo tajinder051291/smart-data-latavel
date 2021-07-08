@@ -1,0 +1,8 @@
+Admin/Manager
+
+https://www.figma.com/proto/x2qcnCgDp626a8Sef7G23V/Smartebiz-manager?node-id=3%3A89&scaling=scale-down
+
+
+For Seller
+
+https://www.figma.com/proto/IMrqkoHNDiYE1Q4cl9OhE5/Smartebiz?node-id=1%3A2&scaling=scale-down
